@@ -32,3 +32,8 @@ cd public
 yarn start
 ```
 App should be running on localhost:3000
+
+
+## Authors
+
+- [@amitextinct](https://github.com/amitextinct)
